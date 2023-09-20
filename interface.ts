@@ -3,7 +3,7 @@
 // user = {
 //     naem : 'xx',
 //     age: 30
-}
+// }
 
 // 오브젝트는 특정 속성값에 대한 정보가 없기에 에러가남.
 // console.log(user.name)
